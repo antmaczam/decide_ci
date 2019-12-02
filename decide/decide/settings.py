@@ -72,7 +72,7 @@ MODULES = [
 ]
 
 #BASEURL = 'http://localhost:8000'
-BASEURL = 'https://antmaczam-decide-ci.herokuapp.com/'
+BASEURL = 'https://antmaczam-decide-ci.herokuapp.com'
 
 APIS = {
     'authentication': BASEURL,
